@@ -1,3 +1,1881 @@
+commit 2f0243c59e7b9a9e655ed7b57ba8abd745294f48
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Mar 18 07:39:06 2024 -0400
+
+    output
+
+commit be48c9b4f21dc5ec79b978e166b2f3850047d13d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Feb 22 19:01:47 2024 +0000
+
+    bumped changelog version
+
+commit 05d86054c80c9d18172147ad64a1125cf664f9a5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Feb 22 13:18:14 2024 -0500
+
+    set tb_running_as_root=true or false depending on status
+
+commit 8293e135f2cedc2303b31b4c4334e400ccb71234
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Feb 22 13:06:37 2024 -0500
+
+    run function tb_fix_permissions
+    
+    https://forums.whonix.org/t/tor-browser-permission-issue/17222/4
+
+commit c4ec38dd9ca7dc944083c2489c5281955ee7b7a8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Feb 22 13:05:06 2024 -0500
+
+    add new function tb_fix_permissions
+    
+    https://forums.whonix.org/t/tor-browser-permission-issue/17222/4
+
+commit c6ff32f1a9520f12f00bbbc1c9b82e22f73d94ae
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jan 26 11:59:39 2024 +0000
+
+    bumped changelog version
+
+commit e7bf4c0086a4f176bff9a4f8792dea19387ad9d1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jan 26 06:12:36 2024 -0500
+
+    output
+
+commit 62c211a2aefb7dca3a2dbdfbaadd9aea56e38c2f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jan 26 06:07:23 2024 -0500
+
+    url
+
+commit 363469426972461865ca680e2829fc6f64a965ea
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jan 26 05:58:57 2024 -0500
+
+    url
+
+commit 929801f3a553e4ec8eada51906dbd5eeb96a6e57
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 09:29:35 2024 -0500
+
+    Mullvad Browser download by Kicksecure developers
+    
+    not by Whonix developers as this would be confusing
+
+commit 085a10dc516af40afcd51122d338e30d91f1d41e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 09:27:39 2024 -0500
+
+    typo
+
+commit ee334d236e00cc435125a3156566d7b178670ae3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 09:26:40 2024 -0500
+
+    mullvadbrowser: prompt to start update-mullvadbrowser if not installed yet
+
+commit 5de69c83f28fc5007b5a21e9feef830934b11001
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 13:59:51 2024 +0000
+
+    bumped changelog version
+
+commit f2b4c9aa7d6e01690fd52bb3194c15d5acf99b49
+Merge: 6d201a0 ae643a3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 08:58:04 2024 -0500
+
+    Merge remote-tracking branch 'github-kicksecure/master'
+
+commit ae643a3e7bb6473773dde336408a085668bfdcdc
+Merge: 6d201a0 ae5798b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 25 08:57:32 2024 -0500
+
+    Merge pull request #15 from fyqwbdzsfjh/master
+    
+    Add support for Mullvad Browser
+
+commit ae5798bd11911d9e233009627228e932a08e8612
+Author: fyqwbdzsfjh <fyqwbdzsfjh@example.invalid>
+Date:   Wed Jan 24 17:55:31 2024 +0000
+
+    add support for mullvad browser
+
+commit 6d201a06cef37d841ccb51bb8e5569466d67b2fb
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 20:24:46 2023 +0000
+
+    bumped changelog version
+
+commit 3896db90b580b25c8ff3837fa3aa891c19bc8f73
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 14:43:09 2023 -0500
+
+    copyright
+
+commit 98633a50789dd7ff1c67c2186d70b503c966399b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 10 04:22:38 2023 -0400
+
+    bumped changelog version
+
+commit bdf7cc847b2e3c95cf3e2127e8e093c135187e7d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 10 04:22:27 2023 -0400
+
+    wayland
+
+commit 6b04506925ae224bccd04d2206052e38a3d2e7ec
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 10 04:04:08 2023 -0400
+
+    bumped changelog version
+
+commit 107d98dfbc6883f16b42767e629a7dc3757e469e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Oct 10 04:02:25 2023 -0400
+
+    wayland
+
+commit 603718c20225213f93d33c982728d9f271456462
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Oct 8 06:31:28 2023 -0400
+
+    bumped changelog version
+
+commit bebb820fe57563fc4e18e50f8fa3d7fc1d934e23
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Oct 8 04:33:43 2023 -0400
+
+    wayland
+
+commit 915762de8f4c4403a79bded4d51c445fcefa84b2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:50:01 2023 -0400
+
+    bumped changelog version
+
+commit 12d50fbd51863340964cbccb42c871d99d88e5f5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:19:46 2023 -0400
+
+    Kicksecure
+
+commit 22431846f9ba4dab8a576005e1fc6ae154267828
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:11:36 2023 -0400
+
+    Kicksecure
+
+commit fa8264ed8dc7a5b3cb746f397beb54cdbb7e8d68
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:44:34 2023 -0400
+
+    bumped changelog version
+
+commit 581584d36fc5d8da04a716203547124c0d0f4719
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:44:27 2023 -0400
+
+    output
+
+commit 0c9a60758ecd520c25e99040b88b803a7641c099
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:31:30 2023 -0400
+
+    bumped changelog version
+
+commit cd78286c4bd1dbd1bb44cd63e5512cf38639c8d5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:31:20 2023 -0400
+
+    fix
+
+commit dcbbff6b45410d5ba2c226d89e50e34d0f122f37
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:28:56 2023 -0400
+
+    bumped changelog version
+
+commit c478d9a515e2e3b920a4e92de826cfddb73b1314
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:28:39 2023 -0400
+
+    improve error handling
+
+commit 2ee3585c0a6c54d46366fb72b9b15e522779a2ce
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:25:22 2023 -0400
+
+    improve error handling
+
+commit 596e01214b969f1341943789388a01bfd7059bcd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:15:07 2023 -0400
+
+    bumped changelog version
+
+commit 7a4389669ebbd57f60f5e2a1704d54a86504e585
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:14:15 2023 -0400
+
+    improve error handling
+
+commit af938aabd31028e3620eb1f6ab4b4ec2522e9cd4
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:04:50 2023 -0400
+
+    bumped changelog version
+
+commit 298ffb26252e36fbbe37279a88b402c8c3283df3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 15:01:06 2023 -0400
+
+    output
+
+commit 1a88311bf84ac49a46f633a438a91c7ab86d820b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 14:59:14 2023 -0400
+
+    fix
+
+commit 5d9902a92bf98e008179f99942ce15a0b9ff517b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 14:51:05 2023 -0400
+
+    improve error handling in case using open-link-confirmation
+
+commit 6af995249288289e000522a67bf83c2641b990ab
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 16 14:21:20 2023 -0400
+
+    output
+
+commit 1c0f38c3a4ec0e5e8ccaef6a393f49ad20a7756d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 21 09:38:29 2023 +0000
+
+    bumped changelog version
+
+commit 9801993a87d5a5a0a435b01498dbf446243917a6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 21 09:11:32 2023 +0000
+
+    bookworm
+
+commit 58bccb744e20e752423fab06fe6d1649b39bf005
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jun 16 11:10:18 2023 +0000
+
+    bumped changelog version
+
+commit 3cb996a1e7a458ce20eedb46e4b174b1701ebf1e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jun 16 10:49:06 2023 +0000
+
+    readme
+
+commit 1a1f5e93271b84de8c12d5842289612124e4e365
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 15 17:06:12 2023 +0000
+
+    bumped changelog version
+
+commit 8d788f0df55470e6ed6589360b2564c6c8dc81e7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 14 13:14:48 2023 +0000
+
+    copyright
+
+commit c3b98f617f95bc3b74a010a1061846fab0162472
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 18:05:36 2023 +0000
+
+    bumped changelog version
+
+commit 58fbcf5f2338d071b4f3e3bfefeaf1fef9459b94
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 16:22:33 2023 +0000
+
+    Standards-Version: 4.6.1.0
+
+commit e300466c44e57ab5721ab1d81e20717f860eaa00
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 15:34:09 2023 +0000
+
+    bumped changelog version
+
+commit bef378b64ff7833618025eea7dc85f5f3bf4a9e6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 14:52:02 2023 +0000
+
+    update copyright year
+
+commit 348916809bba83e7bd62d8a372646f316ab3b10e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jun 12 14:48:04 2023 +0000
+
+    abolish /rw/config parsing
+    (Does not influence Qubes specific /rw/config parsing.)
+
+commit e0790b434c0021b12fdff20be14a13b50b8d4226
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 26 08:45:12 2022 -0400
+
+    bumped changelog version
+
+commit e635029e2853635cc8cd683faacd1e87c6b50eeb
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 26 07:44:59 2022 -0400
+
+    genmkfile manpages
+
+commit d66f99f41699b98ab99ffdb20c86b7973fb521ec
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 26 07:32:39 2022 -0400
+
+    undo /rw changes
+    
+    https://forums.whonix.org/t/rw-config-versus-usr-local-etc/15621
+
+commit 85a14fa5f14f18c0dfc49225304ff11ee8b1a4b2
+Merge: 329daee 9f10bfe
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 26 07:31:31 2022 -0400
+
+    Merge remote-tracking branch 'github-kicksecure/master'
+
+commit 9f10bfed115f7ac984e5bd4621d004fed74b860c
+Merge: 329daee 1a28f63
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 26 07:30:55 2022 -0400
+
+    Merge pull request #13 from nyxnor/master
+    
+    print tb_no_start=true output to cli and gui
+
+commit 1a28f63bfc74e0743a2e3039b0991d9e4bfb6a7b
+Author: nyxnor <nyxnor@protonmail.com>
+Date:   Sun Sep 25 23:07:23 2022 +0000
+
+    move /rw/config as the last dir to be sourced
+
+commit 087da59663116d470f51c6d36ab020bf8f01c549
+Author: nyxnor <nyxnor@protonmail.com>
+Date:   Sun Sep 25 23:06:14 2022 +0000
+
+    add tb_no_start to man
+
+commit 7afe6cdf5fe07615a5b524e134d881c5ce2218f4
+Author: nyxnor <nyxnor@protonmail.com>
+Date:   Sun Sep 25 22:53:16 2022 +0000
+
+    fail early with tb_no_start and add info message
+    
+    https://forums.whonix.org/t/inform-user-that-torbrowser-wont-start/15298/5
+
+commit 329daee153a86798eec6380d010d1a23ac186cc8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jun 19 07:35:18 2022 -0400
+
+    bumped changelog version
+
+commit 6fcfd987b3ac003b4ecf2304d8eff200c765bbf7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Jun 18 10:36:59 2022 -0400
+
+    output
+
+commit 0d7ed197744a2e3f152f8565de6a1b4d5dfa9f8b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 11:05:50 2022 -0400
+
+    bumped changelog version
+
+commit a8fdda3054e31ff48b5587f993bdd81b7a98cdcf
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 09:27:17 2022 -0400
+
+    remove unicode
+
+commit 82ff8adcb262e206f70c1799b7f5ba9a5b6689c6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jun 8 09:04:34 2022 -0400
+
+    remove unicode
+
+commit 06604bcad1018c7177089f1f6bc24d9464b261bd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 25 06:07:22 2022 -0400
+
+    bumped changelog version
+
+commit 3ab8f1373852280173182371c02862a185bb70d0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri May 20 15:27:11 2022 -0400
+
+    readme
+
+commit 9f75cf6b9db791865999442e3d2e929fd6a032e2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri May 20 14:46:40 2022 -0400
+
+    copyright
+
+commit afbf4358794b1546e33bebe1a1801ef4a1ed6738
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Apr 10 12:40:17 2022 -0400
+
+    readme
+
+commit 4c922285cf37789c8da84b62094f50474abac041
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Mar 22 09:51:02 2022 -0400
+
+    rename
+
+commit 18b84edc2d3e3e441a7a3769662a2b8113b394ff
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Feb 9 08:03:22 2022 -0500
+
+    bumped changelog version
+
+commit 756060c7ee158d3d156c1d9129b90c57f4bbd664
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Feb 9 07:45:08 2022 -0500
+
+    update links to documentation
+
+commit 1daecc1249d07c51866443a7ba245e1e6c48b4fe
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Nov 9 14:32:34 2021 -0500
+
+    readme
+
+commit b0b2a92aa83ec867d0250b25f0adfe7b5de4061c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Oct 15 18:33:27 2021 -0400
+
+    bumped changelog version
+
+commit d0edaab2d177a2eca08a429957b91ae41c03d790
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Oct 15 14:12:38 2021 -0400
+
+    comment
+
+commit b33e7b0cb74dcdea697676160183b314bb4ba3a5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Sep 12 12:01:12 2021 -0400
+
+    bumped changelog version
+
+commit dfd17c12df0ef73fb7f46e74f639a282af885113
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Sep 11 16:31:41 2021 -0400
+
+    readme
+
+commit 3759f8da3dd339a7e3cb2144f94087d9f5a974ff
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Aug 30 16:31:21 2021 -0400
+
+    bumped changelog version
+
+commit c038ed7ea7b413cae5e24a0c4c83dba5dff5bd86
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Aug 30 13:08:38 2021 -0400
+
+    debugging
+
+commit b2f3811273ed196bbaceda3e70778c1aaf17437c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 18:39:38 2021 -0400
+
+    bumped changelog version
+
+commit f6c7fa071c96100c96ba5622f9a8d7c8ea8a495d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 18:11:25 2021 -0400
+
+    improve function tb_prefs_js_file_patches
+
+commit bde23ec54313f7579a735c612d5fe562456c0838
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 05:34:18 2021 -0400
+
+    bumped changelog version
+
+commit 72884f9c32f0cf93043a557448d625c339ea0d79
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 22 05:24:12 2021 -0400
+
+    LANG=C str_replace
+
+commit f9a22a3b896a4d63612d3f42dc97be226783d7cb
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 12 17:28:31 2021 -0400
+
+    bumped changelog version
+
+commit a656c7e67d3adb80e989a089821433d38007e4d4
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 12 17:23:43 2021 -0400
+
+    Update path to local browser homepage.
+    
+    Patch prefs.js in user home folder.
+    
+    Because it changed during Whonix 15 to Whonix 16 upgrade.
+    
+    from /usr/share/homepage/whonix-welcome-page/whonix.html
+    to /usr/share/doc/homepage/whonix-welcome-page/whonix.html
+
+commit f4ea3d22cdcb1cb554e80a67a693cce93edb72f9
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 5 17:07:55 2021 -0400
+
+    bumped changelog version
+
+commit 549d20a92b90379b18221e0ae1b96f9405e81da4
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 5 16:09:46 2021 -0400
+
+    delete /usr/share/tb-profile-i2p/profile.i2p/bookmarks.html since unused
+
+commit e9c41b7a645a526aec8764c82259d3c2234eb49f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 18:51:34 2021 -0400
+
+    usr/share/homepage -> usr/share/doc/homepage
+
+commit 51e667bfe98710e9f64b913def7b77bc0fcacb82
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 12:52:39 2021 -0400
+
+    comment
+
+commit 06920625f333b52febbfe2ce3c56ea717e95e254
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 07:05:06 2021 -0400
+
+    lintian FHS
+
+commit e151a81566c7df2892d342a58e9c8f4113d1431b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 07:04:41 2021 -0400
+
+    lintian FHS
+
+commit 0b0deb8c76c0fbbe964cacc567cd75e9e8327ccd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 06:56:51 2021 -0400
+
+    update path
+
+commit fb2c153b51c0632532ac7fe534c561bc5571274d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 06:42:12 2021 -0400
+
+    move /usr/lib/msgcollector to /usr/libexec/msgcollector as per lintian FHS
+
+commit 0cf88c11a4d375784236e956f5706c861392ca6a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 12:48:58 2021 -0400
+
+    move /usr/lib/helper-scripts and /usr/lib/curl-scripts to /usr/libexec/helper-scripts as per lintian FHS
+
+commit 3b039c97cf33f751d40dcd26b2ba5047f1ca71b4
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 11:47:36 2021 -0400
+
+    re-generate man pages (generated using "genmkfile manpages")
+
+commit e1c8f97db0ca7203cb30d61eb71a9aff48c25a64
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 11:44:11 2021 -0400
+
+    man page
+
+commit 557ade66a5b34258b47bcc5c40e1383dd23f3a4b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 05:48:27 2021 -0400
+
+    bullseye
+
+commit 2c83ce97df4bd0c999fd06a6d7d73d85719ce59b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 1 16:24:45 2021 -0400
+
+    readme
+
+commit 44b91f95c854bac6922353e0b60f35126c63b419
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 5 08:40:43 2021 -0400
+
+    bumped changelog version
+
+commit 04247841ff70f3fdb367a6d2d311df34bcb8a905
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 5 08:40:42 2021 -0400
+
+    readme
+
+commit 25bfdbcac79126d9ea169157522d1e0dcdbe8213
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:43:26 2021 -0400
+
+    cleanup security slider configuration comment
+
+commit abf6d9b03d1385c745089c3a09289d4498260fc3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:42:51 2021 -0400
+
+    remove SecBrowser specific code since deprecated
+
+commit e4e3305e43fa8b7cdd4d69a591e378f3ad62b9b7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:41:22 2021 -0400
+
+    remove SecBrowser specific files since deprecated
+
+commit a8ab3aab5cd6b0b95abb71b83beaf321a83d9c60
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:40:25 2021 -0400
+
+    deleted usr/share/torbrowser/security-slider-highest.js
+
+commit bdf47edbb8e5b98d6005652b64a3feac9bca9842
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:39:17 2021 -0400
+
+    remove security slider code since deprecated
+
+commit b5d2280ad445bc1fbdb613424664bf8503e6f395
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 08:38:00 2021 -0400
+
+    add custom user.js support
+    
+    remove SecBrowser specific code
+
+commit 871bf6c004d55bb054d4160b82ea511f0b28d207
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 28 07:31:26 2021 -0400
+
+    output
+
+commit bc35fbc647fb997a5509223997324d86d2169505
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Mar 18 09:12:30 2021 -0400
+
+    bumped changelog version
+
+commit 106e8b28faad9b615098b8be47917f8162ac3fd2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Mar 18 08:57:23 2021 -0400
+
+    copyright
+
+commit 2df39b2c6d41ec5ad3dec5c639526aa24c371679
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Mar 17 12:38:28 2021 -0400
+
+    bumped changelog version
+
+commit cb6aea900801da10bd84f0925809ebe46352bdde
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Mar 17 09:45:23 2021 -0400
+
+    copyright
+
+commit 2e96832f0dcfd0d300f87b8fc2362a3a7416c4f9
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Feb 22 13:17:02 2021 -0500
+
+    bumped changelog version
+
+commit ef86ebc9bf9a7455fecaca30ea6e40f5158d9070
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Feb 22 13:16:51 2021 -0500
+
+    wording
+
+commit 9804633a964ac898869cd3e46da4bbc6633361f7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Feb 21 08:18:43 2021 -0500
+
+    bumped changelog version
+
+commit 95d84d3c6a5d873853533318db36607c25d90edc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Feb 21 08:18:42 2021 -0500
+
+    readme
+
+commit 59ca97201a666d0701e24cc038fa7feebfd7fe70
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Feb 21 08:18:08 2021 -0500
+
+    SecBrowser deprecation notice
+    
+    https://www.whonix.org/wiki/SecBrowser
+
+commit 43d2b27773c9fedd938eceb86fe6dd9f58af9695
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 17 02:16:39 2021 -0500
+
+    bumped changelog version
+
+commit 7485cef02f54eaf2ecd9b1b88d8d7ab964093470
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 16 04:28:14 2021 -0500
+
+    output
+
+commit addd374b7717126f8e9533e726588c255ef2ed67
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 9 01:40:58 2021 -0500
+
+    bumped changelog version
+
+commit e0bb5cde397ebf434d0484915640e9a4e2d0583c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 9 01:29:27 2021 -0500
+
+    port to /run/qubes/this-is-templatevm
+
+commit 35346effea146a42943fae7295af5f0f6bc95a0d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 25 07:31:25 2020 -0500
+
+    bumped changelog version
+
+commit f3cb9a0efd3a17e41f91b04e64a1ec5fedd27868
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 25 06:48:58 2020 -0500
+
+    output
+
+commit d8d03aa0b5e5945eb28a3c39de772c3173822014
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Nov 1 07:56:15 2020 -0500
+
+    bumped changelog version
+
+commit 190a3f768e394bd07bd825ff6b5a4edc44f9c866
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Nov 1 07:50:31 2020 -0500
+
+    fix opening URLs which contain question marks ("`?`")
+    
+    remove `eval` from `tb_run_function` since not needed
+    
+    http://forums.whonix.org/t/torbrowser-cli-wont-open-urls-containing-question-marks/10514/1
+    
+    pass `--verbose` to `start-tor-browser`
+    
+    https://forums.whonix.org/t/system-wide-sandboxing-framework-sandbox-app-launcher/9008/226
+
+commit a124477bbbef3d7084c75a2dfd718c8e3cdddc89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 07:52:44 2020 -0400
+
+    bumped changelog version
+
+commit 317462707a94b5221acf76f7e92177326aa70207
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 07:46:35 2020 -0400
+
+    add sandbox-app-launcher Qubes DispVM support
+
+commit 398178490d8fe5cc7f0c9d850bd54b3e6205d1d9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 07:30:21 2020 -0400
+
+    output
+
+commit 6f3b35af58707786f0b3ae5afe97fe5ae6cb3029
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 06:30:07 2020 -0400
+
+    bumped changelog version
+
+commit 3ee16516780d7f3d88e9dc0778d91087e9fcc7bc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 06:23:06 2020 -0400
+
+    introduce tb_no_start for better sandbox-app-launcher support
+
+commit 29829d7632f399157be771f96e4cd6a70b856a96
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 31 06:17:15 2020 -0400
+
+    improve noexec check for compatibility with sandbox-app-launcher
+
+commit a94da3b7917237e410f0563ee9ee25a94b944a3f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Oct 30 09:57:39 2020 -0400
+
+    bumped changelog version
+
+commit a458c96c5fed477f95c730e185c2b46efc611d64
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 29 16:56:21 2020 -0400
+
+    refactoring
+
+commit d0afec0df5aa2d0ab49b8e9ff74b65c2d9fc4404
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 15 08:31:24 2020 -0400
+
+    bumped changelog version
+
+commit 93218b2f0f67203c24b7ecef33b2767a67126c63
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 14 09:45:14 2020 -0400
+
+    fix
+
+commit 42e5353491242dc2bf93867878442bad1c809283
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 14 09:43:44 2020 -0400
+
+    add more folder permission checks
+
+commit 092ec9dc8c511fecb050cd165c1b57537914af21
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 7 09:30:29 2020 -0400
+
+    bumped changelog version
+
+commit 20c2165fb83f0d095492329b1329b704e7d031ec
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 7 09:27:53 2020 -0400
+
+    allow skipping arbitrary functions thorough use of `tb_skip_functions` environment variable
+    
+    abolish `tb_no_start`
+    
+    https://forums.whonix.org/t/system-wide-sandboxing-framework/9008/187
+
+commit cf5b486d54e166cf20ad2db31c6ab52d0abe2456
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Oct 6 13:36:32 2020 -0400
+
+    bumped changelog version
+
+commit e70f5a470ac262290537910c75990767bf207bc9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Oct 6 13:36:31 2020 -0400
+
+    readme
+
+commit ce589c2b9c8e5c4acc2834045290b29ac136cce7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Oct 6 13:27:16 2020 -0400
+
+    add environment variable `tb_no_start=true` support
+    
+    to avoid starting Tor Browser
+    
+    https://forums.whonix.org/t/system-wide-sandboxing-framework/9008/182
+
+commit f14dd237fc4b06503135ecbe8645a38ed35a8719
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 11:50:53 2020 -0400
+
+    bumped changelog version
+
+commit 24aadd5e9484d89e19143d8813a88199e9ef5895
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 11:50:23 2020 -0400
+
+    SecBrowser: actually `user_pref("network.dns.disabled", false);`
+    
+    https://forums.whonix.org/t/tor-browser-10-without-tor/10313
+
+commit e5fa4410ccc6aa9d02f006c824615081f8e7dfe9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 05:36:31 2020 -0400
+
+    bumped changelog version
+
+commit 8835a74a26a7fbada03d541359f51bf3ab1796db
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 05:35:31 2020 -0400
+
+    SecBrowser: Disable popup asking to prefer onions since onions will not work in clearnet browser.
+    
+    `user_pref("privacy.prioritizeonions.showNotification", false);`
+
+commit 2123d35eada2e1672031fdfcdefd23dc3ba5981b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 05:32:31 2020 -0400
+
+    SecBrowser: actually `user_pref("network.dns.disabled", true);`
+    
+    https://forums.whonix.org/t/tor-browser-10-without-tor/10313
+
+commit 98fe4b4321e0d7f4221358fd27ca9b2858e896d9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 04:55:46 2020 -0400
+
+    bumped changelog version
+
+commit e986d5f9ac77ad926f20ad37a9920bc58a356b35
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Sep 29 04:54:23 2020 -0400
+
+    SecBrowser: add `user_pref("network.dns.disabled", false);`
+    
+    https://forums.whonix.org/t/tor-browser-10-without-tor/10313
+    
+    Thanks to Lew for the bug report!
+    
+    Thanks to 2-unglaubig for fix suggestion!
+    
+    Thanks to digholer for fix suggestion and upstream bug report!
+
+commit 72f35c184db327ecc08fbc138c08337f90be3651
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Sep 5 04:06:43 2020 -0400
+
+    bumped changelog version
+
+commit d1918d7672e8d011e4b9ff30b86f8032d63a145f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 28 04:28:42 2020 -0400
+
+    output
+
+commit 67919e51b7e38e356679cd9981f4f174e6c4b0a4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 16 08:45:51 2020 -0400
+
+    bumped changelog version
+
+commit ff91fa3f7e6254d3db35e6be4b7e92810a332d37
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 15 14:05:38 2020 -0400
+
+    readme
+
+commit 51583594debf803451b44438cd8df85e6f96c1c7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 15 12:58:51 2020 -0400
+
+    readme
+
+commit 4cb4a04e10b162b35303b9e0eb0b7dd078dc46f0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 9 09:46:05 2020 +0000
+
+    bumped changelog version
+
+commit 8762201f057ed7cd449bc8bb28e792d738692655
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 9 09:34:51 2020 +0000
+
+    description
+
+commit 5b235933b70daed0b6c839ce4ac2f7089fcdc068
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 12:35:47 2020 -0400
+
+    bumped changelog version
+
+commit 3d9d69daf9611f390dac9b3e3b6f578991bf6406
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 12:28:35 2020 -0400
+
+    copyright
+
+commit 0b1cc6b6d4ee3843ae47fa9cdd3af27fe3128640
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 08:02:04 2020 -0400
+
+    bumped changelog version
+
+commit 5fa4ecd548187b5342a56b4f20cda1900b415f15
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 07:22:52 2020 -0400
+
+    readme
+
+commit b71fd0b3e353b78a1226062aab75e6eadd17ed81
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 17:34:59 2020 -0400
+
+    remove 'Build-Depends: ronn' since no longer required
+
+commit b377c5f380ce7d7ce82e0a9d80e523f04f559762
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 16:57:33 2020 -0400
+
+    remove genmkfile
+
+commit 19dd3da4d8882f0bc3ae61d576922bc55fc1b6ce
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 16:33:54 2020 -0400
+
+    add debian install file
+
+commit 9239306edaf7915f28765f2655f5e6cedd0b707f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 15:56:49 2020 -0400
+
+    add man pages (generated using "genmkfile manpages")
+
+commit 49ed3dfe6a5d931845ca984ced7bea77298a3c7b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 15:49:49 2020 -0400
+
+    no longer create man pages during build process
+    use pre-created man pages
+
+commit fcc26bda1a62c5889d4ec79a3c707d618d410e75
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 15:42:49 2020 -0400
+
+    change path to auto generated man pages
+
+commit c28e91ec73e0e15d641bfe817b89a598fa952be2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 11:02:11 2020 -0400
+
+    bumped changelog version
+
+commit 5be63742930d5d7d76f8299f4d766dd461b739ca
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 09:04:01 2020 -0400
+
+    update copyright year
+
+commit 1afd601d38b29d2975180ced2703a03bf639e58d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 1 08:50:00 2020 -0400
+
+    update copyright year
+
+commit aab6b969d779ed820260b585c8d242d78144da73
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 5 08:37:17 2020 -0500
+
+    bumped changelog version
+
+commit eed0696561c2c5eb15027e815f35ff91cb27e9a9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 5 08:33:01 2020 -0500
+
+    readme
+
+commit 72d5f063e40eeecd7b43775fa1a1d830b6080733
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Mar 3 09:46:33 2020 -0500
+
+    remove security slider from description
+    
+    since no longer in use
+
+commit 493886f4be77aae967d3c01bf887e5f662131704
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Mar 3 09:45:36 2020 -0500
+
+    SecBrowser / i2pbrowser: no longer use firejail by default
+    
+    even if installed
+    
+    since currently not maintained by anyone in Whonix / Kicksecure
+
+commit f6d88a34ef04d629da8e0c026c932f44affce34a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Mar 3 09:15:54 2020 -0500
+
+    bumped changelog version
+
+commit 0309e850c716a00d4a8358ad80fac656c65de23f
+Merge: 18f3f03 2acc0bd
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 20 00:44:28 2020 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 2acc0bd8af89fb912d7f6c412936c37efc60023f
+Merge: b774620 110d874
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 20 05:37:55 2020 +0000
+
+    Merge pull request #12 from Thinkablemell0w/patch-2
+    
+    change console Page to /home
+
+commit b7746204f3c6ff1f1bb3cd445cd89760b6606c5a
+Merge: 18f3f03 3da4710
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 20 05:37:46 2020 +0000
+
+    Merge pull request #11 from Thinkablemell0w/patch-1
+    
+    remove blank homepage setting
+
+commit 110d874ed770282f3a7f31ddfced2340ca298583
+Author: Thinkablemell0w <60707409+Thinkablemell0w@users.noreply.github.com>
+Date:   Wed Feb 19 19:11:41 2020 +0100
+
+    change console Page to /home
+
+commit 3da471035043ae0cad6d6269a8d857f1913b8259
+Author: Thinkablemell0w <60707409+Thinkablemell0w@users.noreply.github.com>
+Date:   Wed Feb 19 19:10:43 2020 +0100
+
+    remove blank homepage setting
+
+commit 18f3f030230114720fcf191179ce274cc9bbe93b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 01:11:32 2020 -0500
+
+    bumped changelog version
+
+commit 12b8cf93d03a222f1a704061e1acc04de345e2df
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 01:06:01 2020 -0500
+
+    reword
+
+commit 977f24f3efa6fe88995559fa2b1b8c84fae89c9a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 01:03:32 2020 -0500
+
+    reword
+
+commit 846e2af6984db0dc59f69ae8f4764a44496d1599
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 01:00:45 2020 -0500
+
+    reword
+
+commit 4507a754960b5ef4339f8e6be651619930bdbc13
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:59:20 2020 -0500
+
+    reword
+
+commit 60034d4e6fd4aaad3dd83be635fc2ca3123c14ba
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:53:18 2020 -0500
+
+    fix
+
+commit 868f68feb8634abd6efb38433515cff8d68047c8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:52:42 2020 -0500
+
+    reword
+
+commit 798d853093794e740104c0a5c24bf5369679f91d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:51:19 2020 -0500
+
+    standard disclaimer
+
+commit b8514ef97ccafd49aa5e7bab4885eaa02f74fe7b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:49:35 2020 -0500
+
+    refactoring
+
+commit cc35fb815d059b020c84388874784956da01dfea
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 14 00:48:41 2020 -0500
+
+    refactoring
+
+commit 5502fcf22223b00a8272aff18fa14990ea1b7342
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 11:03:23 2020 -0500
+
+    bumped changelog version
+
+commit 0647d1a69c21b7500590737ac603003d0850e287
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 10:25:40 2020 -0500
+
+    i2pbrowser homepage: add link to web interface
+
+commit a1eeaa28961980bdb5c1edf4691a096e242d01c2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 10:01:02 2020 -0500
+
+    bumped changelog version
+
+commit 1af4b8261c1b95e7a42fef4b39fc09618904b234
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 09:58:52 2020 -0500
+
+    i2pbrowser: use "standard" homepage path
+
+commit ec43dd55cada2184ae6d2338db6092759f55a9ca
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 09:56:03 2020 -0500
+
+    i2pbrowser: unset default by whonix-welcome-page /usr/lib/whonix-welcome-page/env_var.sh
+
+commit 3be99bdd59b85ac950f4add32ba9eaa82edf9d71
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 14:13:15 2020 +0000
+
+    bumped changelog version
+
+commit af420d2e8b3abeebf2835ec11f27e758b663571d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 07:40:21 2020 -0500
+
+    fix variable name tb_2ip -> tb_i2p_browser
+
+commit 377eee077a8d1ee47a3206920dcbab5884eae02d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 07:34:36 2020 -0500
+
+    Check if i2p related services are already running. And if not,
+    lxsudo prompt, systemctl enable and start i2p related services.
+    
+    This effectively results in a one time lxsudo prompt for users of
+    i2pbrowser in Non-Qubes-Whonix.
+    
+    This is different in Qubes-Whonix TemplateBased AppVMs due to
+    TemplateBased AppVMs having a non-persistent root image by default.
+    These users should run:
+    
+    sudo /usr/share/tb-profile-i2p/enable-i2p
+    
+    in Whonix-Workstation TemplateVM.
+
+commit 34ba6a422ef945fd151e83d1d338f5d9dd215c12
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Feb 3 08:44:24 2020 -0500
+
+    bumped changelog version
+
+commit 1d1f77453901be4218c1facacb7c94fe4ccf9480
+Merge: 09077a9 1921a89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jan 31 12:15:20 2020 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1921a89432a01c209bc712e2a2a55f7a21ae47d3
+Merge: 09077a9 c2859f0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jan 31 17:14:49 2020 +0000
+
+    Merge pull request #10 from HulaHoop0/patch-1
+    
+    Modified to work with privoxy
+
+commit c2859f0b480ecd55cfce9968d1759ce796d1c875
+Author: HulaHoop0 <55955185+HulaHoop0@users.noreply.github.com>
+Date:   Fri Jan 31 16:44:45 2020 +0000
+
+    Modified to work with privoxy
+
+commit 09077a98471f0a5e84528eb24e870a0b38444e98
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 05:24:29 2020 -0500
+
+    bumped changelog version
+
+commit 7f3e9e523b662a183473b9c41fbc7f5aaa56f33e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jan 11 04:24:22 2020 -0500
+
+    SecBrowser: disable "Set security slider "Safest"."
+    
+    Broken, therefore disabled by default.
+    
+    https://forums.whonix.org/t/broken-security-slider/8675
+
+commit 5eff54428a8726b0800ea7febce82ac9b418cc9c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 30 06:00:39 2019 -0500
+
+    bumped changelog version
+
+commit 5d51e69df5ead2ce2f0e83d56ad064790b1854b3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 28 01:46:01 2019 -0500
+
+    Disable security slider first start popup because it is broken.
+    
+    https://forums.whonix.org/t/broken-security-slider/8675
+
+commit 2dfd914ebdce1c311d7ccb4d0e2241baa968817f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 20 07:13:26 2019 -0500
+
+    bumped changelog version
+
+commit 2e0c1c4de3093e50cc1cda7e998040c1153ea264
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 17 03:36:23 2019 -0500
+
+    remount Tor Browser folder in /home with exec (disable noexec if enabled)
+    
+    https://forums.whonix.org/t/re-mount-home-and-other-with-noexec-and-nosuid-among-other-useful-mount-options-for-better-security/7707
+
+commit 9fd05e84e2392d739b5573505c0eee2dff21b385
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 17 03:07:28 2019 -0500
+
+    run check_noexec later
+
+commit 65c6972bb9f7e65ab54bb278125b4e159b1d22bf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 9 08:26:24 2019 -0500
+
+    bumped changelog version
+
+commit 04b59367dc7228c8563e3ec83b6679eb75e5ba7c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 9 08:23:56 2019 -0500
+
+    fix
+
+commit 0d253530d38cc23492342854cfbb4fcfbff60c12
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 12:44:01 2019 -0500
+
+    bumped changelog version
+
+commit a991ebca335ebf2ab5f6b90ded96f6e8cbf239b5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 12:40:09 2019 -0500
+
+    detect if /home/user/.tb is mounted without noexec
+
+commit a5cc4683be2a5c3a8ade69188d18f27723cc48f2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 12:34:30 2019 -0500
+
+    output
+
+commit 79ed07d3fd31d3d7efd5802d53202302127ed437
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 10:11:45 2019 -0500
+
+    bumped changelog version
+
+commit 05e9025cc12b0c2c4478a1218b919e6f769c698f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 04:25:28 2019 -0500
+
+    do not attempt to start when /home is mounted with noexec
+
+commit 9a26d3d3d2a17a6de6d475b6ed8c9e7507757395
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 18 19:16:55 2019 +0000
+
+    bumped changelog version
+
+commit b98efd24614f911f69fed116031f9b83fd23ffd9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 18 09:33:43 2019 +0000
+
+    readme
+
+commit 5d236b0dca9b3941c55ab7e04b2053c185fd6d50
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Nov 9 12:58:24 2019 +0000
+
+    bumped changelog version
+
+commit 2e741b4a16066d3ae187e4a9406f2271bbe72bab
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Nov 5 09:35:02 2019 -0500
+
+    Enable punycode
+    
+    to fix very hard to notice Phishing Scam - Firefox / Tor Browser URL not showing real Domain Name - Homograph attack (Punycode).
+    
+    https://forums.whonix.org/t/very-hard-to-notice-phishing-scam-firefox-tor-browser-url-not-showing-real-domain-name-homograph-attack-punycode/8373
+    
+    https://forums.whonix.org/t/secbrowser-a-security-hardened-non-anonymous-browser/3822/162
+    
+    user_pref("network.IDN_show_punycode", true);
+
+commit 74303636a76da01d0cef3d80a33e0491b4f21a44
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 31 16:07:31 2019 +0000
+
+    bumped changelog version
+
+commit 1a9a61c4caff3bd12cb2fdb6de10ae59e088e03a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Oct 29 10:27:25 2019 -0400
+
+    disable Letterboxing in SecBrowser by default
+    
+    https://forums.whonix.org/t/is-anyone-having-white-bars-in-the-tbb-tor-browser-letterboxing/8345
+    
+    https://forums.whonix.org/t/secbrowser-a-security-hardened-non-anonymous-browser/3822/156
+
+commit 18d840ba226b8cec825f4b73af0d09824b55b21e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 06:56:55 2019 +0000
+
+    bumped changelog version
+
+commit 88e3792adca9ee6ccb9444844f1ea430a40039c5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:41:17 2019 -0400
+
+    comments
+
+commit aaed392da17fe8cfb396fcec2f70484e02a809cb
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:21:37 2019 -0400
+
+    comments
+
+commit bfc7738f01ca196640fc7a3dd592b1f722d3dbfe
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:19:05 2019 -0400
+
+    copyright
+
+commit 099916f5810f9355c8bb0ab75f9788f20e0dc7e1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:18:48 2019 -0400
+
+    refactoring
+
+commit b5314cc23da2cf0f85c2e08c6d1f2eb2ae2ee483
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:18:10 2019 -0400
+
+    code simplification
+
+commit 23fb362ef3807e9325fa3a81fb6063f117dad734
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:17:37 2019 -0400
+
+    code simplification
+
+commit fda3b8370623bd782d9327976633e0153e41edaa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 24 02:14:42 2019 -0400
+
+    remove 'export TOR_HIDE_UPDATE_CHECK_UI=1' for SecBrowser / i2pbrowser
+    
+    since not justified. Unknown reason why this was introduced.
+    
+    No reason to disable Tor Browser internal updater. Works equally well for
+    SecBrowser. Tested.
+    
+    'export TOR_HIDE_UPDATE_CHECK_UI=1' seems to have had no effect but remove
+    anyhow just in case it ever gets fixed upstream in future.
+
+commit 99ca4f236861e9d2c958b183dbddaf9e16328a3f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:50:03 2019 +0000
+
+    bumped changelog version
+
+commit e7d08e74283aea491a3163d92a5cf2b2af3c6181
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:46:56 2019 +0000
+
+    fix, only set TOR_DEFAULT_HOMEPAGE if not already set
+
+commit 3f220f766b8a48e8a06e18db8585df8ca0abddb9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:46:05 2019 +0000
+
+    reactive default homepage since fixed in Tor Browser 9
+
+commit e86a794ceb21f16acdce2a7d7c34e3214612d51c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:44:09 2019 +0000
+
+    fix: export TOR_DEFAULT_HOMEPAGE
+
+commit 8088e81ac99d8ea56a2844ad3ac36334707f4a3e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 10:23:16 2019 +0000
+
+    bumped changelog version
+
+commit 888bc0b62fc466ed902ba2d0da657676c837fd8f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 10:14:05 2019 +0000
+
+    output
+
+commit 4d6406953757f260c1e63344159715ff2ec7a4d1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 10:10:42 2019 +0000
+
+    output
+
+commit 59c1fda3855fe61c4cf78e23b65d1c56862a8489
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 5 11:33:56 2019 +0000
+
+    bumped changelog version
+
+commit 90b116fbed89581a45dc94c584e950f9e17db36f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 5 07:19:18 2019 -0400
+
+    set TOR_DEFAULT_HOMEPAGE to "about:blank" if unset
+    
+    https://github.com/Whonix/tb-starter/commit/7e160ddd10f50c527b10b660731006c1d2d55421
+    
+    https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
+
+commit 9902351bcd5fbe8f7e798e50de620e4c0939ba89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 20 14:02:19 2019 +0000
+
+    bumped changelog version
+
+commit 7e160ddd10f50c527b10b660731006c1d2d55421
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 20 14:01:28 2019 +0000
+
+    no longer set default homepage
+    remove link setting code
+    code simplification
+    since this is triggering a bug in Tor Browser / noscript
+    
+    https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
+
+commit 47d8a3dc3c6abde8a60e3c089322947c2ab6dfd7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Sep 19 13:07:00 2019 +0000
+
+    bumped changelog version
+
+commit a92a4ced3ee92d41685b247ffcd218c001d1cd5b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Sep 19 04:21:11 2019 -0400
+
+    comment
+
+commit 04d66bd71c1f20baf3e1fe6d2a6c142582379891
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 16 13:34:49 2019 +0000
+
+    bumped changelog version
+
+commit 61425b21d8fcd959309c74e9b40511dd733c18ed
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 16 12:19:30 2019 +0000
+
+    fix DNS with SecBrowser in Kicksecure
+
+commit 5cb5e87570602d8ce94b97c4c6cf0aa9460ea018
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 16 11:43:29 2019 +0000
+
+    remove coming soon since Kicksecure release soon
+
+commit 7e8f8ba095ccc4eb2d27cc93cfed68c55727618d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 16 11:42:32 2019 +0000
+
+    donate now
+
+commit ddff4530d6933ad30a07c38a132522540addcd89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 16 07:37:00 2019 -0400
+
+    typo
+
+commit 35ed9d54d71b9a47317ebc4024f7b09a89238a58
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 13 13:38:20 2019 +0000
+
+    bumped changelog version
+
+commit 022f7ccdffc91ec6a6bcf2b5862bb768ed50e6c3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 13 13:22:58 2019 +0000
+
+    update link
+
+commit 47a5ee76016b8a366494e7e5c7c504aa88df9775
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Sep 7 06:12:08 2019 +0000
+
+    bumped changelog version
+
+commit fc87f8d3741e529410d898bfccce4b361d7da316
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Sep 7 01:20:50 2019 -0400
+
+    fix, do not ask slider question again when it was answered "No"
+
+commit 99200c71a79a149961667d75f8dc6985b4249e45
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 31 13:45:47 2019 +0000
+
+    bumped changelog version
+
+commit e99a660c495a5cc874f04bfe5b26a7cd6c533bde
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 31 08:18:00 2019 -0400
+
+    fix copying from /var/cache/tb-binary to user home at first start
+
+commit a7c1dcdf485e2c3dd749329db260c23cc4b37e4a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 24 16:42:03 2019 +0000
+
+    bumped changelog version
+
+commit 14f718747ce25fb4429760dea0e6161160e9247d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 24 16:39:57 2019 +0000
+
+    readme
+
+commit 52d160ee7140e3555bc3b3006a08789a5ff1fb8c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 24 12:18:34 2019 -0400
+
+    remove hardened malloc LD_PRELOAD since it does not work with Firefox
+    
+    https://forums.whonix.org/t/hardened-malloc/7474/29
+
+commit 0c03f49a9d38b665d7615c6bcea64c1dcda24806
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 23 16:57:49 2019 +0000
+
+    bumped changelog version
+
+commit fadb867388be828e226fde587d9bb43547901ede
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Aug 18 14:03:09 2019 +0000
+
+    enable hardening by default if firejail is available in i2pbrowser
+    
+    web fingerprint is non-default anyhow, so nothing to lose related to fingerprint
+    
+    https://www.whonix.org/wiki/Tor_Browser#Hardening
+    
+    https://forums.whonix.org/t/tor-browser-hardening-hardened-malloc-firejail-apparmor-vs-web-fingerprint/7851
+
+commit 9dba5f8c761a3985f0442dcc68733f886560155d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Aug 18 13:59:48 2019 +0000
+
+    refactoring, update i2pbrowser for recent code changes
+
+commit 9a9d69c75b1f202910f9b9f4d2ff5dcf4ca0b915
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 16:41:58 2019 +0000
+
+    bumped changelog version
+
+commit 15ecbdb9b668c468289aa8de6a75629f8e92f18a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 16:41:01 2019 +0000
+
+    add debian/tb-starter.install
+    
+    unfortunately required because there is now a meta package in debian/control
+
+commit 45341638d3e6658bf43933592381f7b8d7ca572a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 16:40:54 2019 +0000
+
+    fix
+
+commit 7c400bfd43f51295332e21b7dcd900d73256aa3f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 16:00:27 2019 +0000
+
+    bumped changelog version
+
+commit d9d9bbda95c6d0c1d6a8c4e9bad33a7967a9c33a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 15:57:31 2019 +0000
+
+    readme
+
+commit 9f837db38462d72dca311dec5d0171ea6932a7db
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 15:56:47 2019 +0000
+
+    add secbrowser metapackage for ease of installation
+
+commit 4bc516920b37896d7e65ea9e5bd3fa53c10636cc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 15:42:00 2019 +0000
+
+    Icon=/usr/share/icons/anon-icon-pack/secbrowser.png
+
+commit 5949aaccb23e92756987cffd4a4ab32cba2549a7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 15 15:18:40 2019 +0000
+
+    bumped changelog version
+
+commit 61243b9431f3a180e5ce7ce8841852415d5b4bfb
+Merge: a64abd8 8452e79
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 15 01:33:43 2019 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit a64abd8c00bf9e8c9ab3252213a2f0b37c44757e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 15 01:33:06 2019 -0400
+
+    output
+
+commit 970c953a1b7f8b29bad530457f6d6d94a1b1f0dd
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 15 01:32:14 2019 -0400
+
+    do not export LD_PRELOAD and instead prepend it
+
+commit 8452e79e82774fb8e3c344480f5d7c12983fa09a
+Merge: f4e514b 7e6dc42
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 15 05:26:32 2019 +0000
+
+    Merge pull request #9 from 0brand/master
+    
+    torjunkies' forum Nits
+
+commit 7e6dc42c920889bad183cee730d4b07f464856e0
+Author: 0brand <0brand@mailbox.org>
+Date:   Wed Aug 14 23:17:58 2019 +0000
+
+    torjunkies' forum Nits
+
+commit 1d341d13151adc5e672e2e398365096732e40873
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 12:44:53 2019 +0000
+
+    output
+
+commit f4e514bef3f8156cb9098ea3ac288412814e56b6
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 12:38:59 2019 +0000
+
+    bumped changelog version
+
+commit c8095b790dd193e1f14d5d9ccceb7397f8d8906c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 12:37:41 2019 +0000
+
+    fix error message on non-zero exit code when using firejail
+
+commit bc594b3c81b293ae6c05e8c19a38bda07366822d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 11:14:00 2019 +0000
+
+    bumped changelog version
+
+commit fd4e34eb4a321f46d89dde9e0ee130c92655df3b
+Merge: 01492cb a36f540
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 10:49:47 2019 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit a36f54049eca88591c1517736d8d286617875045
+Merge: 01492cb 944548f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 10:49:20 2019 +0000
+
+    Merge pull request #8 from 0brand/master
+    
+    Update SecBrowser welcome page
+
+commit 944548f4cacdfd10cd09e79ddddafcf634bfe612
+Author: 0brand <0brand@mailbox.org>
+Date:   Wed Aug 14 10:31:15 2019 +0000
+
+    Update SecBrowser welocome page.
+
+commit 01492cbe70b8689b447460d35dc9c91443429e65
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 01:15:24 2019 +0000
+
+    bumped changelog version
+
+commit 54aa2da55ad8b9da34b0345ebfcf6bc103a865b6
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 01:15:01 2019 +0000
+
+    readme
+
+commit 700bcb3260a107d99ba7ade7d4dbe3c8506fc152
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 01:14:41 2019 +0000
+
+    description
+
+commit 664d9a97a8fb2594840ad2c8dee4e6882ab5e84b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 01:02:01 2019 +0000
+
+    bumped changelog version
+
+commit 523b8fb8ac9e3c796cb853715750b224c01e9b87
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 01:01:37 2019 +0000
+
+    readme
+
+commit d1145445f0db8ec5ac4ce96bb59c561efcc35999
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 00:55:14 2019 +0000
+
+    description
+
+commit 5bfdd0cd8222b958ff7c619d3bc1c8092062355e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 00:42:05 2019 +0000
+
+    description
+
+commit 21d968e4fe8f2c5003b215f0131a2a0a2e6d8c39
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 00:40:50 2019 +0000
+
+    description
+
+commit 028b5c36b533f36191f28e760fd2766730f05acd
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Aug 14 00:38:46 2019 +0000
+
+    fix open link confirmation
+    
+    Thanks to @TNTBOMBOM for the bug report!
+
+commit 9b66aec4e42a72116f52fd963f8a87db0039e41e
+Merge: 6d100b2 a20d0f4
+Author: 0brand <0brand@mailbox.org>
+Date:   Mon Aug 12 18:01:03 2019 +0000
+
+    Merge pull request #3 from Whonix/master
+    
+    sync with upstream repo.
+
+commit a20d0f4222ed9b952420d37b1760d6a20b68ac66
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Aug 5 09:13:51 2019 +0000
+
+    bumped changelog version
+
 commit d18795ac7a578989b23dad1bf660b37eeedef0d8
 Merge: 25ad28b 4920fbf
 Author: Patrick Schleizer <adrelanos@riseup.net>

@@ -1,29 +1,57 @@
-## Copyright (C) 2012 - 2018 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## Copyright (C) 2012 - 2023 ENCRYPTED SUPPORT LP <adrelanos@kicksecure.com>
 ## See the file COPYING for copying conditions.
 
 Source: tb-starter
 Section: misc
 Priority: optional
-Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 12), genmkfile, ronn
-Homepage: https://github.com/Whonix/tb-starter
-Vcs-Browser: https://github.com/Whonix/tb-starter
-Vcs-Git: https://github.com/Whonix/tb-starter.git
-Standards-Version: 4.3.0
+Maintainer: Patrick Schleizer <adrelanos@kicksecure.com>
+Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Homepage: https://github.com/Kicksecure/tb-starter
+Vcs-Browser: https://github.com/Kicksecure/tb-starter
+Vcs-Git: https://github.com/Kicksecure/tb-starter.git
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
 
 Package: tb-starter
 Architecture: all
 Depends: msgcollector, ${misc:Depends}
 Recommends: tb-updater, tb-default-browser, open-link-confirmation,
- anon-icon-pack
+ icon-pack-dist
 Provides: torbrowser-launcher
-Description: Tor Browser Starter
- Provides a Tor Browser Starter start menu entry and /usr/bin/torbrowser
- starter.
+Description: Tor Browser Starter (by Whonix developers)
+ Both, a starter for Tor Browser.
+ Provides security hardening, integration with Debian, Whonix and Qubes.
  .
- Starts /home/user/.tb/tor-browser/start-tor-browser.
+ Starter.
+ .
+  - Tor Browser Starter start menu entry and `/usr/bin/torbrowser`
+ starter. Starts `/home/user/.tb/tor-browser/start-tor-browser`.
+ .
+ When config option tb_hardening=true is set or when using
+ command line option --hardening, firejail will be used.
  .
  Uses open-link-confirmation if available.
+ .
+ Prompts to install the browser if not yet installed.
+ .
+ Changes directory into browser directly before startup.
+ .
+ Custom homepage support.
+ .
+ Qubes integration.
+ .
+ Sanity tests:
+  - Aborts if detected being run as root.
+  - Aborts in Qubes TemplateVM.
+  - Aborts in Qubes DVM Template.
+  - Waits for Qubes mount dirs and gui agent being ready.
+ .
+ In Qubes AppVM copies browser from root image to private image at first start.
+ .
+ Tor Browser documentation by Whonix.
+ .
+  - https://www.whonix.org/wiki/Tor_Browser
+  - https://www.whonix.org/wiki/Tor_Browser/Advanced_Users
  .
  This package is produced independently of, and carries no guarantee from,
  The Tor Project.
